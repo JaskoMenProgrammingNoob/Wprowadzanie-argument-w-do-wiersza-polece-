@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Wprowadzanie argumentów do wiersza poleceń": {
+      "commandName": "Project",
+      "commandLineArgs": "\"ala ma kota\" 15 30\r\n"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
